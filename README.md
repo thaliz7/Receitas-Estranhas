@@ -1,1 +1,198 @@
-# Receitas-Estranhas
+# Receitas-Estranhas```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Receitas de Stranger Things</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#000;
+    color:white;
+    font-family:Arial, sans-serif;
+    line-height:1.8;
+}
+
+header{
+    text-align:center;
+    padding:50px 20px;
+    background:linear-gradient(to bottom,#000,#1a0000);
+}
+
+header h1{
+    font-family:'Cinzel', serif;
+    color:#ff0000;
+    font-size:3rem;
+    text-shadow:0 0 10px #ff0000;
+}
+
+header p{
+    color:#ddd;
+}
+
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+    padding:30px 0;
+}
+
+.card{
+    background:#111;
+    border:1px solid #ff0000;
+    border-radius:15px;
+    padding:25px;
+    margin-bottom:30px;
+    box-shadow:0 0 15px rgba(255,0,0,.4);
+}
+
+.card h2{
+    color:#ff3b3b;
+    margin-bottom:15px;
+}
+
+h3{
+    color:#ff8080;
+    margin-top:15px;
+}
+
+ul,ol{
+    margin-left:25px;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    color:#999;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>🧇 Stranger Things Recipes 🍕</h1>
+    <p>Receitas inspiradas na série mais misteriosa de Hawkins</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>🧇 Os Waffles da Eleven (Estilo Eggo Caseiro)</h2>
+
+<p><strong>Tempo de preparo:</strong> 15 minutos</p>
+<p><strong>Rendimento:</strong> 4 a 5 waffles</p>
+
+<h3>Ingredientes</h3>
+<ul>
+<li>2 xícaras de farinha de trigo</li>
+<li>2 colheres de sopa de açúcar</li>
+<li>1 colher de sopa de fermento em pó</li>
+<li>1/2 colher de chá de sal</li>
+<li>2 ovos</li>
+<li>1 e 1/2 xícara de leite morno</li>
+<li>1/3 de xícara de manteiga derretida</li>
+<li>1 colher de chá de essência de baunilha</li>
+</ul>
+
+<h3>Modo de Preparo</h3>
+<ol>
+<li>Misture farinha, açúcar, fermento e sal.</li>
+<li>Em outro recipiente misture ovos, leite, manteiga e baunilha.</li>
+<li>Junte tudo e mexa até ficar homogêneo.</li>
+<li>Aqueça a máquina de waffle e unte.</li>
+<li>Asse até dourar.</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>🍍🍕 A Pizza de Abacaxi da Surfer Boy Pizza</h2>
+
+<p><strong>Tempo de preparo:</strong> 30 minutos</p>
+
+<h3>Ingredientes</h3>
+<ul>
+<li>1 massa de pizza pré-assada</li>
+<li>1/2 xícara de molho de tomate</li>
+<li>2 xícaras de queijo muçarela ralado</li>
+<li>100g de presunto</li>
+<li>1 xícara de abacaxi em cubos</li>
+<li>Orégano a gosto</li>
+</ul>
+
+<h3>Modo de Preparo</h3>
+<ol>
+<li>Pré-aqueça o forno a 200°C.</li>
+<li>Espalhe o molho sobre a massa.</li>
+<li>Adicione queijo, presunto e abacaxi.</li>
+<li>Salpique orégano.</li>
+<li>Asse por 15 a 20 minutos.</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>🍨 O Sorvete da Scoops Ahoy</h2>
+
+<p><strong>Tempo de preparo:</strong> 20 minutos + congelamento</p>
+
+<h3>Ingredientes</h3>
+<ul>
+<li>1 lata de leite condensado</li>
+<li>2 caixinhas de creme de leite geladas</li>
+<li>1 xícara de calda de caramelo</li>
+<li>1/2 colher de chá de flor de sal</li>
+</ul>
+
+<h3>Modo de Preparo</h3>
+<ol>
+<li>Bata o creme de leite até aumentar de volume.</li>
+<li>Misture o leite condensado.</li>
+<li>Adicione o sal à calda.</li>
+<li>Monte camadas com a massa e a calda.</li>
+<li>Faça o efeito mármore com um garfo.</li>
+<li>Congele por pelo menos 6 horas.</li>
+</ol>
+</div>
+
+<div class="card">
+<h2>🍫 O Pudim de Chocolate do Dustin</h2>
+
+<p><strong>Tempo de preparo:</strong> 15 minutos + 2 horas de geladeira</p>
+
+<h3>Ingredientes</h3>
+<ul>
+<li>1 litro de leite</li>
+<li>1 lata de leite condensado</li>
+<li>1 xícara de chocolate em pó</li>
+<li>3 colheres de sopa de amido de milho</li>
+<li>1 colher de sopa de manteiga</li>
+</ul>
+
+<h3>Modo de Preparo</h3>
+<ol>
+<li>Dissolva o amido e o chocolate em parte do leite.</li>
+<li>Adicione os demais ingredientes.</li>
+<li>Cozinhe mexendo sempre.</li>
+<li>Quando engrossar, cozinhe mais alguns minutos.</li>
+<li>Leve à geladeira por 2 horas.</li>
+</ol>
+</div>
+
+</div>
+
+<footer>
+🌌 Friends Don't Lie • Stranger Things Fan Recipes 🌌
+</footer>
+
+</body>
+</html>
+```
